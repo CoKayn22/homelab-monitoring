@@ -1,0 +1,10 @@
+# Secretos y configuración local
+.env
+
+# Datos persistentes (no deben ir al repo)
+prometheus_data/
+grafana_data/
+
+# Sistema
+.DS_Store
+*.log
