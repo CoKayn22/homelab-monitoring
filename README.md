@@ -63,7 +63,9 @@ Solo el puerto de Grafana (`3000`) se publica al host; Prometheus y cAdvisor sol
 
 ## Capturas
 
-*(añadir aquí capturas de los dashboards una vez desplegado)*
+![Dashboard de cAdvisor en Grafana](docs/screenshots/dashboard.png)
+
+![VM docker-host en Proxmox](docs/screenshots/proxmox-vm.png)
 
 ## Sobre este proyecto
 
