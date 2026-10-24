@@ -35,7 +35,7 @@ Solo el puerto de Grafana (`3000`) se publica al host; Prometheus y cAdvisor sol
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/homelab-monitoring.git
+   git clone https://github.com/vdiaz/homelab-monitoring.git
    cd homelab-monitoring
    ```
 
